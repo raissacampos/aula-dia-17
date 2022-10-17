@@ -1,0 +1,86 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+
+.primario {
+    background-image: url(../img/banne.jpg);
+    height: 1000px;
+}
+
+.filho {
+    background-color: #0d477a5d;
+    height: 1000px;
+}
+
+.logo img {
+    margin-top: 30px;
+    padding-left: 90px;
+}
+
+.menu ul {
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    padding-left: 900px;
+    font-size: 18px;
+}
+
+.menu ul li {
+    list-style: none;
+    display: inline-block;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color:#e9f2f3;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 350px;
+    color: #e9f2f3;
+    font-size: 70px;
+}
+
+p {
+    text-align: center;
+    color: #e9f2f3;
+    font-size: 20px;
+}
+
+button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    width: 150px;
+    height: 25px;
+    background-color: #2175BF;
+}
+
+button a{
+    color: #e9f2f3;
+    border: 5px;
+    border-color: #e9f2f3;
+    text-decoration: none;
+    font-size: 14px;
+}
+    
+.colunas1{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    height: 700px;
+    background-color:  #0d477a5d;
+}
+
+.titulo1{
+    color: black;
+    font-size: 50px;
+    margin-top: 1px;
+}
+
+.para1{
+    color: black;
+}
