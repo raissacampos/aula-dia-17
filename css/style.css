@@ -3,6 +3,10 @@
     padding: auto;
 }
 
+body{
+    
+}
+
 .primario {
     background-image: url(../img/banne.jpg);
     height: 1000px;
@@ -82,5 +86,119 @@ button a{
 }
 
 .para1{
+    color: black;
+}
+
+
+
+
+.imag img{
+    width: 400px;
+}
+
+.blog{
+    color: rgb(110, 110, 110);
+}
+
+.fileira1 p{
+    color: rgb(110, 110, 110);
+    font-size: 17px;
+}
+
+.fileira1 img{
+    width: 350px;
+    height: 200px;
+}
+
+.fileira1{
+    display: inline-flex;
+    text-align: center;
+    align-items: center;
+}
+
+.blog1{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    align-items: center;
+}
+
+.blog2{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    margin-bottom: 55px;
+}
+
+.blog3{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    margin-bottom: 24px;
+}
+
+.letra{
+    font-size: 22px;
+    color: #222;
+}
+
+
+.fileira2 h2{
+    color: black;
+    font-size: 22px;
+}
+
+.fileira2 p{
+    color: rgb(110, 110, 110);
+    font-size: 17px;
+}
+
+.fileira2{
+    display: inline-flex;
+    align-items: center;
+    text-align: center;
+}
+
+.fileira2 img{
+    width: 350px;
+}
+
+.blog4{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    margin-bottom: 50px;
+}
+
+.blog5{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    margin-bottom: 50px;
+}
+
+.blog6{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    margin-bottom: 50px;
+}
+
+.laramara{
+    margin-left: 43%;
+    padding: 10px;
+}
+
+.itens{
+    display: inline-flex;
+}
+
+
+.letra1{
+    color: black;
+}
+
+.fundo{
+    background-image: url();
     color: black;
 }
